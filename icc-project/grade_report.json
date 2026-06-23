@@ -6,11 +6,11 @@
     "course": "자동제어 - 2026 봄",
     "ai_usage": "none"
   },
-  "timestamp": "2026-06-23T15:57:06",
+  "timestamp": "2026-06-23T16:10:42",
   "quantitative": {
-    "score": 37.490389912162676,
+    "score": 37.425207478142873,
     "max": 70,
-    "pct": 53.557699874518114
+    "pct": 53.46458211163268
   },
   "deductions": {
     "amount": 0,
@@ -21,7 +21,7 @@
     {
       "sid": "A3",
       "kpi": "yawRateOvershoot",
-      "value": 16.600102266128346,
+      "value": 18.789786166890028,
       "target": 10,
       "score": 0,
       "max": 4
@@ -29,7 +29,7 @@
     {
       "sid": "A3",
       "kpi": "yawRateRiseTime",
-      "value": 0.046999999999999931,
+      "value": 0.046000000000000041,
       "target": 0.3,
       "score": 4,
       "max": 4
@@ -37,7 +37,7 @@
     {
       "sid": "A3",
       "kpi": "yawRateSettling",
-      "value": 1.783,
+      "value": 1.779,
       "target": 0.8,
       "score": 0,
       "max": 4
@@ -45,7 +45,7 @@
     {
       "sid": "A1",
       "kpi": "sideSlipMax",
-      "value": 3.3543321898177747,
+      "value": 3.3233073671933839,
       "target": 3,
       "score": 0,
       "max": 6
@@ -53,7 +53,7 @@
     {
       "sid": "A1",
       "kpi": "LTR_max",
-      "value": 0.44079389807902719,
+      "value": 0.43764655634041161,
       "target": 0.6,
       "score": 5,
       "max": 5
@@ -61,7 +61,7 @@
     {
       "sid": "A1",
       "kpi": "lateralDevMax",
-      "value": 2.5434429845761617,
+      "value": 2.5494694087710346,
       "target": 0.7,
       "score": 0,
       "max": 4
@@ -69,7 +69,7 @@
     {
       "sid": "A4",
       "kpi": "understeerGradient",
-      "value": 0.0007489105641768156,
+      "value": 0.00074891947449282688,
       "target": 0.003,
       "score": 5,
       "max": 5
@@ -77,7 +77,7 @@
     {
       "sid": "A4",
       "kpi": "sideSlipMax",
-      "value": 1.1838841062337981,
+      "value": 1.1838631383991434,
       "target": 2,
       "score": 5,
       "max": 5
@@ -85,15 +85,15 @@
     {
       "sid": "A7",
       "kpi": "sideSlipMax",
-      "value": 6.5685063048983219,
+      "value": 6.6092453261607051,
       "target": 5,
-      "score": 5.4903899121626853,
+      "score": 5.4252074781428714,
       "max": 8
     },
     {
       "sid": "A7",
       "kpi": "LTR_max",
-      "value": 0.339071387464642,
+      "value": 0.3394345038236134,
       "target": 0.7,
       "score": 7,
       "max": 7
@@ -117,7 +117,7 @@
     {
       "sid": "D1",
       "kpi": "sideSlipMax",
-      "value": 3.3543321898177747,
+      "value": 3.3233073671933839,
       "target": 4,
       "score": 4,
       "max": 4
@@ -125,7 +125,7 @@
     {
       "sid": "D1",
       "kpi": "LTR_max",
-      "value": 0.44079389807902719,
+      "value": 0.43764655634041161,
       "target": 0.6,
       "score": 2,
       "max": 2
@@ -133,14 +133,14 @@
     {
       "sid": "D1",
       "kpi": "lateralDevMax",
-      "value": 2.5434429845761617,
+      "value": 2.5494694087710346,
       "target": 1,
       "score": 0,
       "max": 2
     }
   ],
-  "final_auto": 37.490389912162676,
-  "ctrl_signature": "782a26a768e728eb9fc4094e494355701138b440ec58c5c73464f21ee86daabd",
+  "final_auto": 37.425207478142873,
+  "ctrl_signature": "f8fd265131387e948ac3a8c3fdc7ab137f91b9a14cff46d6e18f2a892107afef",
   "matlab_version": "26.1 (R2026a)",
   "solver_used": "ode45"
 }
